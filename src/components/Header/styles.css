@@ -1,0 +1,15 @@
+header {
+    background-color: var(--color-bg-secondary);
+    color: var(--color-font-tertiary);
+    height: 62px;
+    display: flex;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 24px;
+}
+
+.header-container {
+    padding: 0 40px;
+}

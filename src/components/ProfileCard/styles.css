@@ -1,0 +1,39 @@
+.profile-card-content {
+    background-color: var(--color-bg-quartenary);
+    border-radius: 8px;
+    padding: 44px 38px;
+    display: flex;
+}
+
+.profile-card-content img {
+    width: 247px;
+    margin-right: 30px;
+}
+
+.profile-card-content-right {
+    background-color: var(--color-bg-primary);
+    padding: 15px;
+    border: 1px solid var(--color-border-primary);
+    border-radius: 6px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.profile-card-content-right h3 {
+    font-size: 20px;
+    color: var(--color-font-sexternary);
+    margin-bottom: 19px;
+}
+
+.profile-card-info {
+    padding: 8px 10px;
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--color-font-secondary);
+    background-color: var(--color-bg-primary);
+    border: 1px solid var(--color-border-primary);
+    border-radius: 4px;
+    margin-bottom: 5px;
+}

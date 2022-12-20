@@ -1,0 +1,13 @@
+.search-card-content {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--color-bg-tertiary);
+    padding: 54px 30px;
+    border-radius: 16px;
+}
+
+.search-card-content h2 {
+    font-size: 38px;
+    color: var(--color-font-quartenary);
+    margin-bottom: 12px;
+}
